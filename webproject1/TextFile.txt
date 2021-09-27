@@ -1,0 +1,7 @@
+﻿https://github.com/public-apis/public-apis
+
+https://ipapi.co/api/#introduction
+
+http://jsonplaceholder.typicode.com/
+
+https://loripsum.net/
